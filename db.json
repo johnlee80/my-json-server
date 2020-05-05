@@ -1,0 +1,76 @@
+{
+    "foods":[
+       {
+          "id":"1",
+          "name":"Shack Burger",
+          "company":"Shake Shack",
+          "likes":"1,293",
+          "avatar_url":"https://tempimages2020.s3.amazonaws.com/shake-shack-burger.png",
+          "city":"chicago",
+          "state":"IL",
+          "food_type":"American",
+          "price":"$8.99",
+          "link_url":""
+       },
+       {
+          "id":"2",
+          "name":"Burrito Bowl",
+          "company":"Chipotle",
+          "likes":"993",
+          "avatar_url":"https://tempimages2020.s3.amazonaws.com/burrito-bowl.png",
+          "city":"Chicago",
+          "state":"IL",
+          "food_type":"Mexican",
+          "price":"$9.23",
+          "link_url":""
+       },
+       {
+          "id":"3",
+          "name":"Tonkatsu Ramen",
+          "company":"Ramen-San",
+          "likes":"693",
+          "avatar_url":"https://tempimages2020.s3.amazonaws.com/ramen-bowl.png",
+          "city":"Chicago",
+          "state":"IL",
+          "food_type":"Japanese",
+          "price":"$8.99",
+          "link_url":""
+       },
+       {
+          "id":"4",
+          "name":"Kabob Combo Plate",
+          "company":"Kabobi Grill",
+          "likes":"593",
+          "avatar_url":"https://tempimages2020.s3.amazonaws.com/kabob-combo-plate.png",
+          "city":"Chicago",
+          "state":"IL",
+          "food_type":"Middle-Eastern",
+          "price":"$8.99",
+          "link_url":""
+       },
+       {
+          "id":"5",
+          "name":"HBFC Sandwich",
+          "company":"Honey Butter Fried Chicken",
+          "likes":"470",
+          "avatar_url":"https://tempimages2020.s3.amazonaws.com/honey-butter-chicken-sandwhich.png",
+          "city":"Chicago",
+          "state":"IL",
+          "food_type":"Japanese",
+          "price":"$7.69",
+          "link_url":""
+       },
+       {
+          "id":"6",
+          "name":"Beef Noodle Soup",
+          "company":"Three Wheels Noodle",
+          "likes":"361",
+          "avatar_url":"https://tempimages2020.s3.amazonaws.com/beef-noodle-soup.png",
+          "city":"Chicago",
+          "state":"IL",
+          "food_type":"Japanese",
+          "price":"$8.99",
+          "link_url":""
+       }
+    ]
+  }
